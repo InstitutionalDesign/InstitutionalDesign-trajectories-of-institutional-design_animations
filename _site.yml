@@ -1,0 +1,11 @@
+name: "trajectories-of-institutional-design-website"
+output_dir: "."
+navbar:
+  title: "Trajectories of Institutional Design: Intergovernmental Cooperation in Federal Systems"
+  left:
+    - text: "Supplementary Materials"
+      href: index.html
+    - text: "Upstream Downstream Drainage Area Example"  
+      href: us-ds_ex
+    - text: "About this Project"
+      href: about.html
